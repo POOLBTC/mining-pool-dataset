@@ -1,6 +1,6 @@
 # Mining pool dataset
 
-Fees, payout schemes, minimum payouts and Stratum endpoints for 26 cryptocurrency mining pools, 20 of them mining Bitcoin. Maintained by [POOL BTC](https://pool-btc.com/), an independent site that compares mining pools. POOL BTC is not a pool and has no affiliation with BTC.com Pool or poolbtc.io.
+Fees, payout schemes, minimum payouts and Stratum endpoints for 26 cryptocurrency mining pools, 21 of them mining Bitcoin. Maintained by [POOL BTC](https://pool-btc.com/), an independent site that compares mining pools. POOL BTC is not a pool and has no affiliation with BTC.com Pool or poolbtc.io.
 
 Every row links to the pool page the figure came from and says when we last checked it. If a pool does not publish its fee, the field is empty. We do not fill it with an estimate.
 
